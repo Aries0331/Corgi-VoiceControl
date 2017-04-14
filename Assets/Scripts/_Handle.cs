@@ -35,10 +35,14 @@ public partial class Wit3D : MonoBehaviour {
 			anim.SetInteger ("animation", 0);
 			print ("idle");
 			break;
-//		case "A":
-//			anim.SetInteger ("animation", 5);
-//			print ("A");
-//			break;
+		case "stand":
+			anim.SetInteger ("animation", 0);
+			print ("idle");
+			break;		
+		case "walk":
+			anim.SetInteger ("animation", 6);
+			print ("walk");
+			break;
 //		case "O":
 //			anim.SetInteger ("animation", 0);
 //			print ("idle");
