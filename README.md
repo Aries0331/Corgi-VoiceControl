@@ -18,3 +18,4 @@ for markerless
 1. https://github.com/afauch/wit3d   
 2. https://wit.ai/docs   
 3. https://www.wikitude.com/   
+4. https://www.youtube.com/watch?v=YbFuaAxntUA&t=302s
