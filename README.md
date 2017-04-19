@@ -23,6 +23,7 @@ No.1             |  No.2
 ### Tools:   
 1. Unity   
 Fundamental software for set up  
+3D character available Corgi in Unity asset store: https://www.assetstore.unity3d.com/en/#!/content/70082   
 2. https://wit.ai/   
 Currently, training for input, need plenty of input to correct   
 Can listen commands and perform actions including run, walk, sit, lay, stand up     
