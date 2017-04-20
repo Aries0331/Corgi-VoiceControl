@@ -1,8 +1,10 @@
-# Corgi   
+# Corgi - Voice Crontrol  
+
+### Course project for CMPUT 414 @ University of Alberta, Winter 2017
    
 Markerless Augmented Reality(AR) combined with voice control  
 (Due to some technical reasons, voice control only implemented on marker based one...   
-...Will keep working on it)   
+...Will keep working on markerless[mobile platforms])   
 
 ### Details:   
 1. ```Corgi_Marker```: Well implemented maker based augmented reality with voice control   
