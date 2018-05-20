@@ -1,6 +1,8 @@
 # Corgi - Voice Crontrol  
 
 ### Course project for CMPUT 414 @ University of Alberta, Winter 2017
+
+Full article introduction available at https://ieeexplore.ieee.org/document/8122603/
    
 Markerless Augmented Reality(AR) combined with voice control  
 (Due to some technical reasons, voice control only implemented on marker based one...   
